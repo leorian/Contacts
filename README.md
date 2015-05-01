@@ -8,5 +8,5 @@
 ![](image/6.PNG?raw=true)
 ![](image/7.PNG?raw=true)
 ![](image/8.PNG?raw=true)
-![](image/9.PNG?raw=true)
-![](image/10.PNG?raw=true)
+![](image/9.png?raw=true)
+![](image/10.png?raw=true)
